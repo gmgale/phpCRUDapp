@@ -1,1 +1,0 @@
-$connection = new PDO("");

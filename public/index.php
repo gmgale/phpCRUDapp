@@ -9,4 +9,6 @@
   </li>
 </ul>
 
+<?php phpinfo(); ?>
+
 <?php include "templates/footer.php"; ?>
